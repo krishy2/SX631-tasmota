@@ -1,4 +1,4 @@
-# SX631-tasmota
+# SX631-tasmota with Slimmelezer+
 Read the SX631 meter with Slimmelezer and Tasmota
 
 I've ordered the Slimmelezer+: https://www.zuidwijk.com/product/slimmelezer-plus/
@@ -27,7 +27,7 @@ I've used Tasmocompiler with the following custom parameters:
 2. OTA your Slimmelezer+ with the .bin tasmota file
 3. Connect you Wifi, if it wasn't in your config
 4. Module configuration: Generic(18)
-5. Tools, Edit Script:
+5. Tools, Edit Script: find in the script file.
 
 
 Documentation for this meter: https://tasmota.github.io/docs/Smart-Meter-Interface/#sanxing-sx6x1-sxxu1x-ascii-obis
