@@ -33,3 +33,6 @@ I've used Tasmocompiler with the following custom parameters:
 Documentation for this meter: https://tasmota.github.io/docs/Smart-Meter-Interface/#sanxing-sx6x1-sxxu1x-ascii-obis
 
 Hungarian documentation for SX631 (and other) meters (register list): https://www.eon.hu/content/dam/eon/eon-hungary/documents/Lakossagi/aram/muszaki-ugyek/p1_port%20felhaszn_interfesz_taj_%2020230210.pdf
+
+Coffee for me:
+bitcoin:BC1QF8KDSH80KWKKEA2VHN3AUCPMY4JKQ0EW8XFUZ0?label=Chris%20coffe
