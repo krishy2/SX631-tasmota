@@ -10,19 +10,7 @@ https://github.com/helander/tasmota-slimmelezer
 https://tasmota.github.io/docs/Compile-your-build/
 I've used Tasmocompiler with the following custom parameters:
 
-#ifndef USE_SCRIPT
-#define USE_SCRIPT
-#endif
-#ifndef USE_SML_M
-#define USE_SML_M
-#endif
-#ifdef USE_RULES
-#undef USE_RULES
-#endif
-#define USE_SML_SCRIPT_CMD
-#define USE_SML_SPECOPT
-#define SML_REPLACE_VARS
-#define USE_TCP_BRIDGE
+see in files.
 
 2. OTA your Slimmelezer+ with the .bin tasmota file
 3. Connect you Wifi, if it wasn't in your config
